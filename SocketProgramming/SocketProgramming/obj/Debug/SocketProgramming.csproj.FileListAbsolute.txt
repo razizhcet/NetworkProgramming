@@ -1,0 +1,6 @@
+E:\BizRun.NET\c#.net-programs\SocketProgramming\SocketProgramming\bin\Debug\SocketProgramming.exe.config
+E:\BizRun.NET\c#.net-programs\SocketProgramming\SocketProgramming\bin\Debug\SocketProgramming.exe
+E:\BizRun.NET\c#.net-programs\SocketProgramming\SocketProgramming\bin\Debug\SocketProgramming.pdb
+E:\BizRun.NET\c#.net-programs\SocketProgramming\SocketProgramming\obj\Debug\SocketProgramming.csprojResolveAssemblyReference.cache
+E:\BizRun.NET\c#.net-programs\SocketProgramming\SocketProgramming\obj\Debug\SocketProgramming.exe
+E:\BizRun.NET\c#.net-programs\SocketProgramming\SocketProgramming\obj\Debug\SocketProgramming.pdb

@@ -1,0 +1,5 @@
+E:\BizRun.NET\c#.net-programs\ClientProgram\ClientProgram\bin\Debug\ClientProgram.exe.config
+E:\BizRun.NET\c#.net-programs\ClientProgram\ClientProgram\bin\Debug\ClientProgram.exe
+E:\BizRun.NET\c#.net-programs\ClientProgram\ClientProgram\bin\Debug\ClientProgram.pdb
+E:\BizRun.NET\c#.net-programs\ClientProgram\ClientProgram\obj\Debug\ClientProgram.exe
+E:\BizRun.NET\c#.net-programs\ClientProgram\ClientProgram\obj\Debug\ClientProgram.pdb

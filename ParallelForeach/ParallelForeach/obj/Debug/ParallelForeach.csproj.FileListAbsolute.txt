@@ -1,0 +1,6 @@
+E:\BizRun.NET\c#.net-programs\ParallelForeach\ParallelForeach\bin\Debug\ParallelForeach.exe.config
+E:\BizRun.NET\c#.net-programs\ParallelForeach\ParallelForeach\bin\Debug\ParallelForeach.exe
+E:\BizRun.NET\c#.net-programs\ParallelForeach\ParallelForeach\bin\Debug\ParallelForeach.pdb
+E:\BizRun.NET\c#.net-programs\ParallelForeach\ParallelForeach\obj\Debug\ParallelForeach.csprojResolveAssemblyReference.cache
+E:\BizRun.NET\c#.net-programs\ParallelForeach\ParallelForeach\obj\Debug\ParallelForeach.exe
+E:\BizRun.NET\c#.net-programs\ParallelForeach\ParallelForeach\obj\Debug\ParallelForeach.pdb

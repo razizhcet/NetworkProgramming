@@ -1,0 +1,5 @@
+E:\BizRun.NET\c#.net-programs\ClientMultiSocket1\ClientMultiSocket1\bin\Debug\ClientMultiSocket1.exe.config
+E:\BizRun.NET\c#.net-programs\ClientMultiSocket1\ClientMultiSocket1\bin\Debug\ClientMultiSocket1.exe
+E:\BizRun.NET\c#.net-programs\ClientMultiSocket1\ClientMultiSocket1\bin\Debug\ClientMultiSocket1.pdb
+E:\BizRun.NET\c#.net-programs\ClientMultiSocket1\ClientMultiSocket1\obj\Debug\ClientMultiSocket1.exe
+E:\BizRun.NET\c#.net-programs\ClientMultiSocket1\ClientMultiSocket1\obj\Debug\ClientMultiSocket1.pdb

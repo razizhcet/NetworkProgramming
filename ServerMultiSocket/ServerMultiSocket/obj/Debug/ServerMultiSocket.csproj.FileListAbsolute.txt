@@ -1,0 +1,6 @@
+E:\BizRun.NET\c#.net-programs\ServerMultiSocket\ServerMultiSocket\bin\Debug\ServerMultiSocket.exe.config
+E:\BizRun.NET\c#.net-programs\ServerMultiSocket\ServerMultiSocket\bin\Debug\ServerMultiSocket.exe
+E:\BizRun.NET\c#.net-programs\ServerMultiSocket\ServerMultiSocket\bin\Debug\ServerMultiSocket.pdb
+E:\BizRun.NET\c#.net-programs\ServerMultiSocket\ServerMultiSocket\obj\Debug\ServerMultiSocket.csprojResolveAssemblyReference.cache
+E:\BizRun.NET\c#.net-programs\ServerMultiSocket\ServerMultiSocket\obj\Debug\ServerMultiSocket.exe
+E:\BizRun.NET\c#.net-programs\ServerMultiSocket\ServerMultiSocket\obj\Debug\ServerMultiSocket.pdb
